@@ -12,7 +12,7 @@ The main script can run on its own to generate the solution, but I have also inc
 
 ## Results
 
-![Orbit](https://imgur.com/VQ86IK5)
+![Orbit](entireorbit.png)
 
 ## References Used
 * Vallado, D. A., and McClain, W. D., Fundamentals of astrodynamics and applications, El Segundo, CA: Microcosm Press, 2001.
