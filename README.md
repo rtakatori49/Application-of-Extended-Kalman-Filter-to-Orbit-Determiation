@@ -1,6 +1,6 @@
 # Application of Extended Kalman Filter to Orbit Determiation
 
-The extended Kalman Filter was applied to an initial orbit determination problem done by non-linear weighted least squares method in order to improve the error ellipsoid.
+The extended Kalman filter was applied to an initial orbit determination problem done by non-linear weighted least squares method in order to improve the error ellipsoid.
 
 ## Presentation
 
