@@ -13,7 +13,7 @@ The main script can run on its own to generate the solution, but I have also inc
 ## Results
 
 ![Orbit](entireorbit.png)
-![Orbit for Duration](orbitforobserbationduration.png)
+![Orbit for Duration](orbitforobservationduration.png)
 
 Dr.A's Results | My Results
 -------------- | ----------
