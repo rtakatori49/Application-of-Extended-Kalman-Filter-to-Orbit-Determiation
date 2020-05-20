@@ -13,6 +13,11 @@ The main script can run on its own to generate the solution, but I have also inc
 ## Results
 
 ![Orbit](entireorbit.png)
+![Orbit for Duration](orbitforobserbationduration.png)
+
+Dr.A's Results | My Results
+-------------- | ----------
+![DrAResults](chrome_2020-03-14_14-35-54.png) | ![MyResults](MATLAB_2020-03-14_14-34-23.png)
 
 ## References Used
 * Vallado, D. A., and McClain, W. D., Fundamentals of astrodynamics and applications, El Segundo, CA: Microcosm Press, 2001.
