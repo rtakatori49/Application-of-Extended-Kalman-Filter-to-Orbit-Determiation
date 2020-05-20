@@ -10,8 +10,9 @@ Please visit: https://portfolium.com/entry/extended-kalman-filter-in-orbit-deter
 
 The main script can run on its own to generate the solution, but I have also included all the functions separately as well.
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+## Results
+
+![Orbit](https://imgur.com/VQ86IK5)
 
 ## References Used
 * Vallado, D. A., and McClain, W. D., Fundamentals of astrodynamics and applications, El Segundo, CA: Microcosm Press, 2001.
